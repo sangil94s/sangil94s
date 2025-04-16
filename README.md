@@ -6,14 +6,14 @@
 <h1 align="center">Skill</h1>
 <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,ts,react,nextjs,mysql,prisma,express,vite&perline=10" />
+    <img src="https://skillicons.dev/icons?i=tailwind,js,ts,react,nextjs,mysql,prisma,express,vite&perline=10" />
   </a>
   </p>
 
 <h4 align="center">Tool - 사용 가능한 Tool입니다.</h4>
 <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,notion,gcp&perline=10" />
+    <img src="https://skillicons.dev/icons?i=postman,notion,gcp,vscode,git&perline=10" />
   </a>
 </p>
 
