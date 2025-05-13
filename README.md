@@ -28,13 +28,4 @@
   </a>
 </p>
 
----
 
-<h1 align="center">Resume</h1>
-
-
-<p align="center">
-  <a href="https://precious-hyssop-b3b.notion.site/1db50042c17080de8598f427df41f9d1" target="_blank">
-    <img src="https://img.shields.io/badge/notion-000000.svg?style=flat-square&logo=notion&logoColor=white"/>
-  </a>
-</p>
