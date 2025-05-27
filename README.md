@@ -22,10 +22,5 @@
 </a>
 </p>
 
-<p align="center">
-  <a href="https://delta-064.tistory.com" target="_blank">
-    <img src="https://img.shields.io/badge/tistory-000000.svg?style=flat-square&logo=tistory&logoColor=white"/>
-  </a>
-</p>
 
 
